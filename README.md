@@ -35,10 +35,15 @@ I was provided with the two csv files named-
 
 
   1.Imported the  two CSV files to DATA MODEL and made connections .
+
+
   2.Used the Diagram view to establish a relationship between the two tables bu connecting 
     with common column.
+
   3.Created a Pivot table and generated the DAX measures as per the specifications that were 
    provided.
+
+
   4.Used sum(),Count(), and Average() functions to create the DAX measures.
 
 
