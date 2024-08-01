@@ -44,6 +44,18 @@ I was provided with the two csv files named-
 
 
 
+Genreated two Reports :-
+1.Showing Booking platform by weeks.
+2.Showing the Atliq bookings in months of June and July .
+
+
+
+
+
+
+
+
+
    🔚 //
 
 
