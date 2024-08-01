@@ -1,7 +1,7 @@
 # Booking-platform-
 
-
-Project of Obejctive:-
+Hy There👋
+ Obejctive of Project:-
 
 
 1.I was introduced to pivit tables and used them for analytics.
